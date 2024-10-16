@@ -4,4 +4,4 @@ This project is to build a simple webpage to sell modern chairs.
 
 <img src="View.png" alt="Website Preview"></p>
 <h2 id="demo">Demo</h2>
-<p>Explore the live demo of the modern chair Website: <a href="https://ashish08kothari.github.io/Modern-Chair-website/">Live Demo</a></p>
+<p>Explore the live demo of the modern chair Website: <a href="https://ashish08kothari.github.io/Modern-chair/">Live Demo</a></p>
